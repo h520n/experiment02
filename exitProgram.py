@@ -1,0 +1,1 @@
+print("If you enter 'exit', the program will exit")
